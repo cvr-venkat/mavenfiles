@@ -6,3 +6,5 @@ feature ()
  git pass1 ():
 
 git pass2 ():
+
+get_login ():
