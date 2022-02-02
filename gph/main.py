@@ -4,3 +4,5 @@ feature ()
  pass
 
  git pass1 ():
+
+git pass2 ():
